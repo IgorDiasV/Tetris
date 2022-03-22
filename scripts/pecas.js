@@ -1,10 +1,11 @@
+corPeca="#f9f9f9"
 quadrado=
             {
                 x:20,
                 y:-25,
                 altura:25,
                 largura:25,
-                cor:"white",
+                cor:corPeca,
                 desenhar:function ()
                 {  
                   
@@ -30,7 +31,7 @@ quadrado=
                           
                             altura:25,
                             largura:25,
-                            cor:"white",
+                            cor:corPeca,
                     })
                     }
                  
@@ -84,7 +85,7 @@ quadrado=
                             y:this.pY,
                             altura:25,
                             largura:25,
-                            cor:"white",
+                            cor:corPeca,
                     })
                     }
                  
@@ -166,7 +167,7 @@ quadrado=
                             y:this.pY,
                             altura:25,
                             largura:25,
-                            cor:"white",
+                            cor:cor,
                     })
                     }
                  
@@ -251,7 +252,7 @@ quadrado=
                             y:this.pY,
                             altura:25,
                             largura:25,
-                            cor:"white",
+                            cor:corPeca,
                     })
                     }
                  
@@ -318,7 +319,7 @@ quadrado=
                             y:this.pY,
                             altura:25,
                             largura:25,
-                            cor:"white",
+                            cor:corPeca,
                     })
                     }
                  
@@ -403,7 +404,7 @@ quadrado=
                             y:this.pY,
                             altura:25,
                             largura:25,
-                            cor:"white",
+                            cor:corPeca,
                     })
                     }
                  
@@ -480,7 +481,7 @@ quadrado=
                             y:this.pY,
                             altura:25,
                             largura:25,
-                            cor:"white",
+                            cor:corPeca,
                     })
                     }
                  
